@@ -10,7 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Spencer's Blog",
-  domain: 'blog.spencercraigie.com  ',
+  // domain: 'blog.spencercraigie.com',
+  domain: 'sprightly-alpaca-3d8eec.netlify.app',
   author: 'Spencer Craigie',
 
   // open graph metadata (optional)
